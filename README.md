@@ -12,7 +12,7 @@ Tracks weekly popularity scores and social media signals (Twitter, YouTube, IMDb
 By combining both, we can prepare a dataset to analyze what makes content popular in its first few weeks post-release.
 
 🎯 Goals
-Join content metadata with HITS scores using tmdb_id.
+Join content metadata with HITS scores.
 
 Filter only early-week performance (week ≤ 3).
 
